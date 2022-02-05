@@ -1,0 +1,22 @@
+{
+  "name": "c3-token-contracts",
+  "version": "1.0.0",
+  "description": "C3 Token contracts and vesting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-BaptisteJosephFourier/c3-token-contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean-BaptisteJosephFourier/c3-token-contracts/issues"
+  },
+  "homepage": "https://github.com/Jean-BaptisteJosephFourier/c3-token-contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}
